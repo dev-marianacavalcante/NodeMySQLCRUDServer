@@ -1,5 +1,3 @@
-# NodeMySQLCRUDServer
-
 ### Projeto de Servidor Node.js com MySQL e Docker Compose
 
 Este projeto consiste em um servidor Node.js que se comunica com um banco de dados MySQL para realizar operações básicas de CRUD (criação, leitura, atualização e exclusão) em uma tabela de itens.
